@@ -7,6 +7,6 @@ echo You Username:
 whoami
 echo Enter You Password:
 passwd
-echo Run ifconfig command and get up 
+echo Run ifconfig command and get ip
 
 
